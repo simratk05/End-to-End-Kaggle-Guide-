@@ -14,6 +14,8 @@ Kaggle is the world’s largest platform for data science and machine learning c
 - Navigate to the ["Competitions"](https://www.kaggle.com/competitions) section.
 - Browse available competitions and select one that matches your interests and skill level.
 - For beginners, start with entry-level competitions to build hands-on experience.
+  
+![image](https://github.com/user-attachments/assets/7683dfb9-c60e-4b67-86ea-628c7317c045)
 
 
 ## 3. Understanding the Competition
@@ -42,6 +44,8 @@ Kaggle is the world’s largest platform for data science and machine learning c
 - Download the data and analyze it using a Kaggle Notebook.
 - Prepare your predictions and submit your results through the competition page.
 - For code competitions, submit your notebook directly.
+  
+![image](https://github.com/user-attachments/assets/82658d0b-d1fd-42c8-a4db-f3ca16e88058)
 
 
 ## 6. Join a Team (Optional)
