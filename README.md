@@ -18,10 +18,16 @@ Kaggle is the world’s largest platform for data science and machine learning c
 ![image](https://github.com/user-attachments/assets/7683dfb9-c60e-4b67-86ea-628c7317c045)
 
 
+![image](https://github.com/user-attachments/assets/df28369f-bd24-45ae-904a-931f6e51fec8)
+
+
 ## 3. Understanding the Competition
 
 - Carefully read the problem statement, evaluation metric, and data description.
 - Review the competition overview, rules, and check out the forums and public notebooks (kernels) for insights.
+
+  ![image](https://github.com/user-attachments/assets/25a27c13-85cd-4904-a0c2-b26a1d828202)
+
 
 ### 3.1 Browse the Competition Tabs
 
@@ -59,6 +65,11 @@ Kaggle is the world’s largest platform for data science and machine learning c
 - Before the deadline, select up to 2 submissions for your final score on the Private Leaderboard.
 - Use the "My Submissions" section to manage and select your final entries.
 
+![image](https://github.com/user-attachments/assets/ba1bb60c-b043-49d6-8a7d-afed34e5cd73)
+
+
+![image](https://github.com/user-attachments/assets/d3f3afd1-671f-47f5-a229-2a0f77f480f5)
+
 
 ## Baseline Notebooks to Get Started
 
@@ -71,7 +82,9 @@ Kaggle is the world’s largest platform for data science and machine learning c
 
 - Explore Kaggle's [Getting Started](https://www.kaggle.com/getting-started) guides and community forums.
 - Review top solutions and kernels to learn best practices.
-- Use the Kaggle API for advanced data access and automation[1].
-
+- short course on kaggle-
+https://www.youtube.com/watch?v=kpRyiJUUFxY
+- roadmap to become kaggle master 
+https://www.youtube.com/watch?v=WtIVaU9dvZg
 
 ## Happy Kaggling! Thank You!
