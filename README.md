@@ -74,6 +74,7 @@ Kaggle is the world’s largest platform for data science and machine learning c
 ## Baseline Notebooks to Get Started
 
 - Titanic Baseline: [Open in Kaggle](https://www.kaggle.com/competitions/titanic)
+  [github repo] (https://github.com/simratk05/Titanic_Survival_Prediction)
 - Natural Language Processing with Disaster Tweets: [Open in Kaggle](https://www.kaggle.com/competitions/nlp-getting-started)
 - House Price Regression Baseline: [Open in Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
   
