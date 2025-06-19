@@ -87,4 +87,7 @@ https://www.youtube.com/watch?v=kpRyiJUUFxY
 - roadmap to become kaggle master 
 https://www.youtube.com/watch?v=WtIVaU9dvZg
 
-## Happy Kaggling! Thank You!
+## Happy Kaggling!
+
+![image](https://github.com/user-attachments/assets/2ce99e43-63f5-40f6-828c-03de42f0119d)
+
