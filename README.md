@@ -87,6 +87,12 @@ https://www.youtube.com/watch?v=kpRyiJUUFxY
 - roadmap to become kaggle master 
 https://www.youtube.com/watch?v=WtIVaU9dvZg
 
+
+## SIMPLE REGRESSION TASK
+
+- Step 1 - Download the dataset in the GitHub Repo and the .ipynb file 
+- Step 2- Upload it to google colab and perform EDA to improve accuracy.
+
 ## Happy Kaggling!
 
 ![image](https://github.com/user-attachments/assets/2ce99e43-63f5-40f6-828c-03de42f0119d)
